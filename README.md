@@ -1,6 +1,11 @@
 # WeChat-Annual-Report
+
 微信年度报告
 **[抖音ID：dy1mn2hw9tcgv  [昵称：BasicProtein] 点击跳转](https://v.douyin.com/iNDvkKwC/)**
+
+
+
+
 # **一、前言**
 
 ## **序言：**
@@ -38,9 +43,9 @@
 
 如果以上地址都失效了，可以去作者的微信公众号寻找：
 
-<img src="C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215175639631.png" alt="image-20240215175639631" style="zoom:30%;" />
+![image-20240215175639631](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/8c48e1ba-6742-4920-a1ed-a536feaca6bc)
 
-<img src="C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215183527338.png" alt="image-20240215183527338" style="zoom:30%;" />
+![image-20240215183416026](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/f9dc182b-3c8a-4174-936b-8705b44f348a)
 
 **注：如果需要做后面的数据可视化，这里的WeChatMsg请务必下载1.0.2及以后的版本，否则导出的聊天记录可能无法正常使用！截止2024年1月12日，1.0.2以及1.0.3的留痕导出的聊天记录可用。**
 
@@ -48,25 +53,25 @@
 
 我下载之后便尝鲜了，下面附上效果图：
 
-![img](https://blog.lc044.love/static/img/beb1500f349ce289406e0e8accac63c0.clipboard-2023-12-12.webp)
+![01](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/e2a242ed-165d-4846-80ed-ee3600a2c886)
 
-![img](https://blog.lc044.love/static/img/c0e17f989978f843147fa9b8d32949b8.clipboard-2023-12-12.webp)
+![02](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/9b6b1aff-4ee4-4914-b0a9-3e2263eac8d4)
 
-![img](https://blog.lc044.love/static/img/47b4476a522f79286b71438bc78a1304.clipboard-2023-12-12.webp)
+![03](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/1f7139a3-18ee-42fe-8ded-6f2f8ec0f1ce)
 
-![img](https://blog.lc044.love/static/img/22edd25fc32a7a11c13d1f36f6421997.clipboard-2023-12-12.webp)
+![04](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/4430a3a4-bd4d-49e2-90ec-8ce21c3ed78a)
 
-![img](https://blog.lc044.love/static/img/e74f9747bf9e686ae5bccc678fe0c7ad.clipboard-2023-12-12.webp)
+![05](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/0dd7a02c-4e8f-4298-b602-55eb7300f50c)
 
-![img](https://blog.lc044.love/static/img/526e20e1b8cbcd9a20ea48e242433f0a.clipboard-2023-12-12.webp)
+![06](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/2dc50fcd-39e2-4130-b865-3b266a62fea4)
 
-![image-20240215182959465](C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215182959465.png)
+![image-20240215182959465](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/38513532-92ea-400e-9055-ae2968c593c3)
 
-![image-20240215183053378](C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215183053378.png)
+![image-20240215183053378](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/480bbd44-5481-4959-943c-42b03652c892)
 
-![image-20240215183112035](C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215183112035.png)
+![image-20240215183112035](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/f2fc3355-6a2b-4cf9-8fcc-b73109781caf)
 
-![image-20240215183128524](C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215183128524.png)
+![image-20240215183128524](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/5dea79be-cc63-4547-b719-c8aac17f293a)
 
 > 如果你想实现的是以上的效果图，那么教程到此结束！
 
@@ -83,7 +88,7 @@
 
 **注：如果需要做后面的数据可视化，这里的WeChatMsg请务必下载1.0.2及以后的版本，否则导出的聊天记录可能无法正常使用！截止2024年1月12日，1.0.2以及1.0.3的留痕导出的聊天记录可用。**
 
-<img src="C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215190531227.png" alt="image-20240215190531227" style="zoom:45%;" />
+![image-20240215190531227](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/057e92ab-425d-4724-8a1a-bcbd67df0729)
 
 <p align="center">用WeChatMsg导出csv文件</p>
 
@@ -98,7 +103,7 @@
 
 选择一个即可，在本项目中，我选择的是Colab。下面我将会贴出一些代码，不一定准确，仅供参考。
 
-![image-20240215203136813](C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215203136813.png)
+![image-20240215203136813](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/95ac81eb-de61-40d0-819d-a415cc821402)
 
 数据处理的过程绝大部分是基于Python代码，所以Python环境必不可少。安装Python的过程我直接引用其他作者的帖子，非常详细：
 
@@ -148,7 +153,7 @@ df = pd.read_csv(r"/content/drive/My Drive/fj_utf8.csv", sep=',')
 df.head(10)
 ```
 
-<img src="C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215204159959.png" alt="image-20240215204159959" style="zoom:50%;" />
+![image-20240215204159959](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/d0ffe619-de86-4b64-887a-55d6541a12ac)
 
 在这份结果中，我们可以大致了解一下：原始数据一共12列，8w+行，说明我们俩在近6个月里共发出这么多消息，我觉得应该算挺多的了吧？但我感觉我很沉默寡言。
 
@@ -205,7 +210,7 @@ df = pd.read_csv(r"/content/drive/My Drive/fj_utf8.csv", sep=',')
 df.head(10)
 ```
 
-![image-20240217222933251](C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240217222933251.png)
+![image-20240217222933251](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/33c83afd-b0d6-4f6a-aaff-c08da434c0bd)
 
 根据以上处理过的数据集，我们可以得出：4月的聊天最多，7月最少。
 
@@ -240,7 +245,7 @@ fig.savefig('chat_month.png',dpi=100)
 plt.show()
 ```
 
-![下载1](E:\Data\Others\微信年度报告\图片\下载1.png)
+![下载1](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/b947fb58-4f00-4da2-882e-0aca9ee3db55)
 
 ## **3.双方消息数量趋势**
 
@@ -295,7 +300,7 @@ fig.savefig('chat_plot.png',dpi=100)
 plt.show()
 ```
 
-![下载2](E:\Data\Others\微信年度报告\图片\下载2.png)
+![下载2](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/ba86f360-0b1b-4af7-a421-7d4ae72128d9)
 
 ## **4.饼图绘制**
 
@@ -333,7 +338,7 @@ fig.savefig('chat_pie',dpi=100)
 plt.show()
 ```
 
-![下载3](E:\Data\Others\微信年度报告\图片\下载3.png)
+![下载3](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/2303774d-b5f9-44b2-bb77-cba5cbbb1b61)
 
 竟然多了2.2%，更多信息自行挖掘！
 
@@ -365,7 +370,7 @@ fig.savefig('chat_pie_2',dpi=100)
 plt.show()
 ```
 
-![下载4](E:\Data\Others\微信年度报告\图片\下载4.png)
+![下载4](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/27c41fcd-8d51-43ed-a629-03fbf3ef601c)
 
 ## **6.双方日内消息分布**
 
@@ -391,7 +396,7 @@ fig.savefig('chat_time.png',dpi=100)
 plt.show()
 ```
 
-![下载5](E:\Data\Others\微信年度报告\图片\下载5.png)
+![下载5](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/4bfd21b9-5b60-4c08-85d3-c8550992b4f3)
 
 ## **7.我方日内消息分布**
 
@@ -416,7 +421,7 @@ fig.savefig('chat_time_pupu.png',dpi=100)
 plt.show()
 ```
 
-![下载6](E:\Data\Others\微信年度报告\图片\下载6.png)
+![下载6](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/81e1c1d2-cb4f-4f8d-bedc-8e3be4094a27)
 
 ## **8.对方日内消息分布**
 
@@ -441,7 +446,7 @@ fig.savefig('chat_time_bobo.png',dpi=100)
 plt.show()
 ```
 
-![下载7](E:\Data\Others\微信年度报告\图片\下载7.png)
+![下载7](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/93f47b77-6d01-43f0-8e9c-94bfb854ed57)
 
 ## **9.月度消息分布**
 
@@ -507,7 +512,7 @@ fig.savefig('chat_plot_2.png', dpi=100)
 plt.show()
 ```
 
-![下载8](E:\Data\Others\微信年度报告\图片\下载8.png)
+![下载8](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/3983800b-8f97-40f7-a71f-c9b1ffe6870c)
 
 ## **10.总体热力图分析**
 
@@ -542,7 +547,7 @@ fig.savefig('heatmap_1.png',dpi=100)
 plt.show()
 ```
 
-![下载9](E:\Data\Others\微信年度报告\图片\下载9.png)
+![下载9](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/06d952f7-bd8f-4893-82b7-9fbd7ec02b8c)
 
 ## **11.阅读热力图分析**
 
@@ -571,7 +576,7 @@ fig.savefig('heatmap_2.png',dpi=100)
 plt.show()
 ```
 
-![下载10](E:\Data\Others\微信年度报告\图片\下载10.png)
+![下载10](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/354aad2c-0466-430d-836f-e84cb906c403)
 
 ## **12.词云图分析**
 
@@ -673,4 +678,5 @@ plt.show()
 本项目的所有工具以及本教程文档我会同步到个人Github仓库，欢迎关注！
 [**Github ID：BasicProtein 点击跳转**](https://github.com/BasicProtein/WeChat-Annual-Report)
 
-<img src="C:\Users\LIN\AppData\Roaming\Typora\typora-user-images\image-20240215175639631.png" alt="image-20240215175639631" style="zoom:30%;" />
+![image-20240215175639631](https://github.com/BasicProtein/WeChat-Annual-Report/assets/158468609/515258a7-f040-4cf8-abde-c21163540ed7)
+
