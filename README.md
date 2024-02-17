@@ -108,6 +108,7 @@
 数据处理的过程绝大部分是基于Python代码，所以Python环境必不可少。安装Python的过程我直接引用其他作者的帖子，非常详细：
 
 [全网最详细的Python安装教程（Windows）](https://zhuanlan.zhihu.com/p/344887837)
+
 [Jupyter Notebook中使用pandas统计分析基础](https://blog.csdn.net/junleon/article/details/120698578)
 
 这些软件下好时，一般会缺少一些扩展库，直接运行代码会报错，我们可以根据报错信息安装对应的缺少模块。
